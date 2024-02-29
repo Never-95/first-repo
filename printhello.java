@@ -5,7 +5,7 @@ class printhello{
 	}
 
 	public static void helloMain(){
-		for (int i=0; i<9; i++){
+		for (int i=0; i<8; i++){
 			System.out.println("Hello world");
 		}
 		return;
