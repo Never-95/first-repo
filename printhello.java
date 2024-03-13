@@ -1,3 +1,4 @@
+//comment
 class printhello{
 	public static void main(String[] a){
 		helloMain();
